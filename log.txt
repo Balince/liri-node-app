@@ -1,0 +1,2149 @@
+
+Artist: ${artist}
+Artist: ${artist}
+Artist: ${artist}
+Artist: ${artist}
+Artist: ${artist}
+Artist: ${artist}
+Artist: Vundabar
+Artist: Vundabar
+Artist: Vundabar
+Artist: Vundabar
+Movie: ${result.movie}
+Movie: ${result.movie}
+Movie: Titanic
+Song: wow
+Song: spotify-this-song,"I Want it That Way"
+Song: The Sign
+Song: the sign
+Song: The Sign
+Song: The Sign
+Movie: Titanic
+Movie: Mr.Nobody
+Song: spotify-this-song,"I Want it That Way"
+Song: spotify-this-song,"I Want it That Way"
+Song: spotify-this-song,"I Want it That Way"
+Song: wow
+Song: The Sign
+Song: spotify-this-song,"I Want it That Way"
+Artist: Vundabar
+Movie: Titanic
+Movie: Mr.Nobody
+Artist: Vundabar
+Song: The Sign
+Song: wow
+Movie: Mr.Nobody
+Movie: Titanic
+Song: spotify-this-song,"I Want it That Way"
+Song: I Want it That Way
+Artist: Vundabar
+Song: The Sign
+Song: wow
+Movie: Mr.Nobody
+Movie: Titanic
+Song: I Want it That Way
+--------------------
+Artist: Vundabar
+Venue: The State House
+--------------------
+Artist: Vundabar
+Venue: The State House
+--------------------
+Artist: Vundabar
+Venue: House Of Independents
+--------------------
+Artist: Vundabar
+Venue: MilkBoy ArtHouse
+--------------------
+Artist: Vundabar
+Venue: Columbus Theatre
+--------------------
+Artist: Vundabar
+Venue: The State House
+--------------------
+Artist: Vundabar
+Venue: The State House
+--------------------
+Artist: Vundabar
+Venue: The State House
+--------------------
+Artist: Vundabar
+Venue: The State House
+--------------------
+Artist: Vundabar
+Venue: House Of Independents
+--------------------
+Artist: Vundabar
+Venue: MilkBoy ArtHouse
+--------------------
+Artist: Vundabar
+Venue: Columbus Theatre
+-----------------------
+Artist: Ace of BaseSong: The SignSpotify Preview: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgBAlbum: The Sign (US Album) [Remastered]
+-----------------------
+Artist: Ace of Base
+Song: The Sign
+Spotify Preview: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB
+Album: The Sign (US Album) [Remastered]
+-----------------------
+Artist: Post Malone
+Song: Wow.
+Spotify Preview: https://open.spotify.com/album/5Dcz8PZHKuvTyjbqEPL5VM
+Album: Wow.
+-----------------------
+Artist: Post Malone
+Song: Wow. - Remix
+Spotify Preview: https://open.spotify.com/album/1Id3Zj9GMvi7dPj3u6cMNs
+Album: Wow. (Remix)
+-----------------------
+Artist: Dreamville
+Song: Oh Wow...Swerve (with J. Cole feat. Zoink Gang, KEY! & Maxo Kream)
+Spotify Preview: https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI
+Album: Revenge Of The Dreamers III
+-----------------------
+Artist: Zara Larsson
+Song: WOW
+Spotify Preview: https://open.spotify.com/album/4fiVXwnHbreMbcOw1MKFhl
+Album: WOW
+-----------------------
+Artist: Jay Rock
+Song: Wow Freestyle (feat. Kendrick Lamar)
+Spotify Preview: https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne
+Album: Redemption
+-----------------------
+Artist: Katy Perry
+Song: Never Really Over - Wow & Flutter Remix
+Spotify Preview: https://open.spotify.com/album/6mz95QqmEg8dtSMukjbKTp
+Album: Never Really Over (Wow & Flutter Remix)
+-----------------------
+Artist: Post Malone
+Song: Wow.
+Spotify Preview: https://open.spotify.com/album/5RyUSKWzBY0aTZd9WX9MXQ
+Album: Wow.
+-----------------------
+Artist: E-40
+Song: Thou Wow
+Spotify Preview: https://open.spotify.com/album/5EK2Kc4pKtcVGUM4Dvz2PQ
+Album: Practice Makes Paper
+-----------------------
+Artist: E-40
+Song: Thou Wow
+Spotify Preview: https://open.spotify.com/album/7B7hDVoumXoVfh1LznOfiS
+Album: Practice Makes Paper
+-----------------------
+Artist: Tiësto
+Song: WOW
+Spotify Preview: https://open.spotify.com/album/1GGYP9NKuM7vSkvj0msOdH
+Album: WOW
+-----------------------
+Artist: AJR
+Song: Wow, I'm Not Crazy
+Spotify Preview: https://open.spotify.com/album/02tIakRsIFGW8sO4pBtJgj
+Album: Neotheater
+-----------------------
+Artist: Beck
+Song: Wow
+Spotify Preview: https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l
+Album: Colors
+-----------------------
+Artist: Bow Wow
+Song: Shortie Like Mine
+Spotify Preview: https://open.spotify.com/album/1Dt7wPQxjnJJBiV6fczCpS
+Album: The Price Of Fame
+-----------------------
+Artist: Bow Wow
+Song: Like You
+Spotify Preview: https://open.spotify.com/album/65G0BpV00GmLi5WUCeWdvT
+Album: Wanted
+-----------------------
+Artist: Roy Purdy
+Song: Oh Wow
+Spotify Preview: https://open.spotify.com/album/4ZdQ0mv20F8aVFO7UxGDpn
+Album: Oh Wow
+-----------------------
+Artist: Mike Posner
+Song: Bow Chicka Wow Wow
+Spotify Preview: https://open.spotify.com/album/7JY4Tfd14fmyBrzbny3thJ
+Album: Bow Chicka Wow Wow
+-----------------------
+Artist: Various Artists
+Song: Wow Thing
+Spotify Preview: https://open.spotify.com/album/3xEPyp7h78uULpDPuKvokH
+Album: Wow Thing
+-----------------------
+Artist: Say Anything
+Song: Wow, I Can Get Sexual Too
+Spotify Preview: https://open.spotify.com/album/2dEa0qjnAkSjGhD4wY16QT
+Album: Is a Real Boy
+-----------------------
+Artist: Various Artists
+Song: WOW
+Spotify Preview: https://open.spotify.com/album/2alhFYCuMJT7FDvkrBctDO
+Album: Search: WWW (Original Television Soundtrack)
+-----------------------
+Artist: Bow Wow
+Song: Let Me Hold You
+Spotify Preview: https://open.spotify.com/album/65G0BpV00GmLi5WUCeWdvT
+Album: Wanted
+-----------------------
+Artist: Post Malone
+Song: Wow.
+Spotify Preview: https://open.spotify.com/album/5Dcz8PZHKuvTyjbqEPL5VM
+Album: Wow.
+-----------------------
+Artist: Post Malone
+Song: Wow. - Remix
+Spotify Preview: https://open.spotify.com/album/1Id3Zj9GMvi7dPj3u6cMNs
+Album: Wow. (Remix)
+-----------------------
+Artist: Dreamville
+Song: Oh Wow...Swerve (with J. Cole feat. Zoink Gang, KEY! & Maxo Kream)
+Spotify Preview: https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI
+Album: Revenge Of The Dreamers III
+-----------------------
+Artist: Zara Larsson
+Song: WOW
+Spotify Preview: https://open.spotify.com/album/4fiVXwnHbreMbcOw1MKFhl
+Album: WOW
+-----------------------
+Artist: Jay Rock
+Song: Wow Freestyle (feat. Kendrick Lamar)
+Spotify Preview: https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne
+Album: Redemption
+-----------------------
+Artist: Katy Perry
+Song: Never Really Over - Wow & Flutter Remix
+Spotify Preview: https://open.spotify.com/album/6mz95QqmEg8dtSMukjbKTp
+Album: Never Really Over (Wow & Flutter Remix)
+-----------------------
+Artist: Post Malone
+Song: Wow.
+Spotify Preview: https://open.spotify.com/album/5RyUSKWzBY0aTZd9WX9MXQ
+Album: Wow.
+-----------------------
+Artist: E-40
+Song: Thou Wow
+Spotify Preview: https://open.spotify.com/album/5EK2Kc4pKtcVGUM4Dvz2PQ
+Album: Practice Makes Paper
+-----------------------
+Artist: E-40
+Song: Thou Wow
+Spotify Preview: https://open.spotify.com/album/7B7hDVoumXoVfh1LznOfiS
+Album: Practice Makes Paper
+-----------------------
+Artist: Tiësto
+Song: WOW
+Spotify Preview: https://open.spotify.com/album/1GGYP9NKuM7vSkvj0msOdH
+Album: WOW
+-----------------------
+Artist: AJR
+Song: Wow, I'm Not Crazy
+Spotify Preview: https://open.spotify.com/album/02tIakRsIFGW8sO4pBtJgj
+Album: Neotheater
+-----------------------
+Artist: Beck
+Song: Wow
+Spotify Preview: https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l
+Album: Colors
+-----------------------
+Artist: Bow Wow
+Song: Shortie Like Mine
+Spotify Preview: https://open.spotify.com/album/1Dt7wPQxjnJJBiV6fczCpS
+Album: The Price Of Fame
+-----------------------
+Artist: Bow Wow
+Song: Like You
+Spotify Preview: https://open.spotify.com/album/65G0BpV00GmLi5WUCeWdvT
+Album: Wanted
+-----------------------
+Artist: Roy Purdy
+Song: Oh Wow
+Spotify Preview: https://open.spotify.com/album/4ZdQ0mv20F8aVFO7UxGDpn
+Album: Oh Wow
+-----------------------
+Artist: Mike Posner
+Song: Bow Chicka Wow Wow
+Spotify Preview: https://open.spotify.com/album/7JY4Tfd14fmyBrzbny3thJ
+Album: Bow Chicka Wow Wow
+-----------------------
+Artist: Various Artists
+Song: Wow Thing
+Spotify Preview: https://open.spotify.com/album/3xEPyp7h78uULpDPuKvokH
+Album: Wow Thing
+-----------------------
+Artist: Say Anything
+Song: Wow, I Can Get Sexual Too
+Spotify Preview: https://open.spotify.com/album/2dEa0qjnAkSjGhD4wY16QT
+Album: Is a Real Boy
+-----------------------
+Artist: Various Artists
+Song: WOW
+Spotify Preview: https://open.spotify.com/album/2alhFYCuMJT7FDvkrBctDO
+Album: Search: WWW (Original Television Soundtrack)
+-----------------------
+Artist: Bow Wow
+Song: Let Me Hold You
+Spotify Preview: https://open.spotify.com/album/65G0BpV00GmLi5WUCeWdvT
+Album: Wanted
+-----------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+Album: The Hits--Chapter One
+-----------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ
+Album: Millennium
+-----------------------
+Artist: Mick Jensen
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/1Eav3T7yEFSOvtUOtxMKa0
+Album: I Want It That Way
+-----------------------
+Artist: Anthem Lights
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/6y6y4kyZ81PF951e9N4WBM
+Album: Covers Part IV
+-----------------------
+Artist: Backstreet Boys
+Song: I Want It That Way - Reimagined
+Spotify Preview: https://open.spotify.com/album/74JILVZuxtZLFyRl9AY7TV
+Album: I Want It That Way (Reimagined)
+-----------------------
+Artist: "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Spotify Preview: https://open.spotify.com/album/4VzAwj9nYwEqjY6JLaTwCm
+Album: Poodle Hat
+-----------------------
+Artist: Tyler and Mark
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/2OB116yi2gPBqwgQvqjKIy
+Album: Beautiful Dreams
+-----------------------
+Artist: Jess and Gabriel
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/7agg8FsuWoGF4eVvzEYHbB
+Album: Under the Covers, Vol. 3
+-----------------------
+Artist: Punk Goes
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/5EoRtzlbNHpz4ZHR4rEmwD
+Album: Punk Goes Pop
+-----------------------
+Artist: Various Artists
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/71WupOKqXgSrgg0CivZDHS
+Album: 90 Sweet 90s Hits!
+-----------------------
+Artist: Steel Panther
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/0cKszqNmOM9mjoiKqR9BIS
+Album: I Want It That Way
+-----------------------
+Artist: Glee Cast
+Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Spotify Preview: https://open.spotify.com/album/1sFs6ZD66GxP9g8kcwISh1
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+-----------------------
+Artist: NKOTBSB
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/5Zwuaan4RIS108lyMEYYmw
+Album: NKOTBSB
+-----------------------
+Artist: Boyce Avenue
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz
+Album: Cover Sessions, Vol. 2
+-----------------------
+Artist: Scary Pockets
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/5RUgGybyrfKUKE5hBTKLum
+Album: Nu Funk
+-----------------------
+Artist: Manuel Costa
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/5OTVQJeg9hddMiZOnjMS4S
+Album: I Want It That Way
+-----------------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/1jRyMHSkbnP8GwptMnh66z
+Album: Selfies on Kodachrome
+-----------------------
+Artist: "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Spotify Preview: https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4
+Album: The Essential "Weird Al" Yankovic
+-----------------------
+Artist: Yshop
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/0dkPR4h6LEM3h8xCWiNpQJ
+Album: I Want It That Way
+-----------------------
+Artist: Various Artists
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/4VyzyexBobu0w5hS3Bcmrg
+Album: NOW That's What I Call 90s Pop--------------------------
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: undefined
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+--------------------------
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: undefined
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+--------------------------
+Title: Titanic
+Year: 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: undefined
+Country: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+--------------------
+Artist: Vundabar
+Venue: The State HouseCity: New HavenDate: 09/26/2019
+--------------------
+Artist: Vundabar
+Venue: House Of IndependentsCity: Asbury ParkDate: 09/27/2019
+--------------------
+Artist: Vundabar
+Venue: MilkBoy ArtHouseCity: College ParkDate: 09/28/2019
+--------------------
+Artist: Vundabar
+Venue: Columbus TheatreCity: ProvidenceDate: 10/11/2019
+--------------------
+Artist: Vundabar
+Venue: The State House
+City: New Haven
+Date: 09/26/2019
+--------------------
+Artist: Vundabar
+Venue: House Of Independents
+City: Asbury Park
+Date: 09/27/2019
+--------------------
+Artist: Vundabar
+Venue: MilkBoy ArtHouse
+City: College Park
+Date: 09/28/2019
+--------------------
+Artist: Vundabar
+Venue: Columbus Theatre
+City: Providence
+Date: 10/11/2019
+-----------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+Album: The Hits--Chapter One
+-----------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ
+Album: Millennium
+-----------------------
+Artist: Mick Jensen
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/1Eav3T7yEFSOvtUOtxMKa0
+Album: I Want It That Way
+-----------------------
+Artist: Anthem Lights
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/6y6y4kyZ81PF951e9N4WBM
+Album: Covers Part IV
+-----------------------
+Artist: Backstreet Boys
+Song: I Want It That Way - Reimagined
+Spotify Preview: https://open.spotify.com/album/74JILVZuxtZLFyRl9AY7TV
+Album: I Want It That Way (Reimagined)
+-----------------------
+Artist: "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Spotify Preview: https://open.spotify.com/album/4VzAwj9nYwEqjY6JLaTwCm
+Album: Poodle Hat
+-----------------------
+Artist: Tyler and Mark
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/2OB116yi2gPBqwgQvqjKIy
+Album: Beautiful Dreams
+-----------------------
+Artist: Jess and Gabriel
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/7agg8FsuWoGF4eVvzEYHbB
+Album: Under the Covers, Vol. 3
+-----------------------
+Artist: Punk Goes
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/5EoRtzlbNHpz4ZHR4rEmwD
+Album: Punk Goes Pop
+-----------------------
+Artist: Various Artists
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/71WupOKqXgSrgg0CivZDHS
+Album: 90 Sweet 90s Hits!
+-----------------------
+Artist: Steel Panther
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/0cKszqNmOM9mjoiKqR9BIS
+Album: I Want It That Way
+-----------------------
+Artist: Glee Cast
+Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Spotify Preview: https://open.spotify.com/album/1sFs6ZD66GxP9g8kcwISh1
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+-----------------------
+Artist: NKOTBSB
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/5Zwuaan4RIS108lyMEYYmw
+Album: NKOTBSB
+-----------------------
+Artist: Boyce Avenue
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz
+Album: Cover Sessions, Vol. 2
+-----------------------
+Artist: Scary Pockets
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/5RUgGybyrfKUKE5hBTKLum
+Album: Nu Funk
+-----------------------
+Artist: Manuel Costa
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/5OTVQJeg9hddMiZOnjMS4S
+Album: I Want It That Way
+-----------------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/1jRyMHSkbnP8GwptMnh66z
+Album: Selfies on Kodachrome
+-----------------------
+Artist: "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Spotify Preview: https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4
+Album: The Essential "Weird Al" Yankovic
+-----------------------
+Artist: Yshop
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/0dkPR4h6LEM3h8xCWiNpQJ
+Album: I Want It That Way
+-----------------------
+Artist: Various Artists
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/4VyzyexBobu0w5hS3Bcmrg
+Album: NOW That's What I Call 90s Pop
+-----------------------
+Artist: Lana Del Rey
+Song: Doin' Time
+Spotify Preview: https://open.spotify.com/album/7FsoMmWTbDXgdwvO1uCQ7d
+Album: Doin' Time
+-----------------------
+Artist: Sublime
+Song: Doin' Time
+Spotify Preview: https://open.spotify.com/album/0E2blcrvyduixEolxZXot7
+Album: Sublime Greatest Hits
+-----------------------
+Artist: Sublime
+Song: Doin' Time - Original Version
+Spotify Preview: https://open.spotify.com/album/14eK347GdWO4mBBx78tsut
+Album: Sublime
+-----------------------
+Artist: Sublime
+Song: Doin' Time - Original Version
+Spotify Preview: https://open.spotify.com/album/4kq4T5cWLlP8NJkMA3S6AN
+Album: Sublime
+-----------------------
+Artist: Curtis Grimes
+Song: Irresponsible
+Spotify Preview: https://open.spotify.com/album/3JxeIkLWLauZHyRPEF0oxf
+Album: Doin' My Time
+-----------------------
+Artist: George Jones
+Song: Still Doin' Time
+Spotify Preview: https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p
+Album: George Jones - 16 Biggest Hits
+-----------------------
+Artist: Sublime
+Song: Doin' Time
+Spotify Preview: https://open.spotify.com/album/4UEqnonZLE8BNYyk6HnjGA
+Album: Sublime (10th Anniversary Edition / Deluxe Edition)
+-----------------------
+Artist: Luke Bryan
+Song: Every Time I See You
+Spotify Preview: https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF
+Album: Doin' My Thing
+-----------------------
+Artist: Sublime
+Song: Doin' Time
+Spotify Preview: https://open.spotify.com/album/1V5bwhucJ7F6zzuIC3Ft71
+Album: 20th Century Masters: The Millennium Collection: Best Of Sublime
+-----------------------
+Artist: Sublime
+Song: Doin' Time - Uptown Dub
+Spotify Preview: https://open.spotify.com/album/75TcMiwrxS0jHbWkbLnNqD
+Album: Second-Hand Smoke
+-----------------------
+Artist: Sublime
+Song: Doin' Time - Remixed By Marshall Arts
+Spotify Preview: https://open.spotify.com/album/4kq4T5cWLlP8NJkMA3S6AN
+Album: Sublime
+-----------------------
+Artist: Sublime
+Song: Doin' Time - Remix
+Spotify Preview: https://open.spotify.com/album/1vArGLTIdl71TVyqIh2hD5
+Album: What I Got
+-----------------------
+Artist: Sublime
+Song: Doin' Time - Uptown Dub
+Spotify Preview: https://open.spotify.com/album/4kq4T5cWLlP8NJkMA3S6AN
+Album: Sublime
+-----------------------
+Artist: George Jones
+Song: Still Doin' Time
+Spotify Preview: https://open.spotify.com/album/2FDYYxIqbpn5d5wiba4cxN
+Album: The Full Discover Package
+-----------------------
+Artist: Sublime
+Song: Doin' Time - Remixed By Wyclef Jean
+Spotify Preview: https://open.spotify.com/album/4kq4T5cWLlP8NJkMA3S6AN
+Album: Sublime
+-----------------------
+Artist: Sublime
+Song: Doin' Time - Eerie Splendor Remix
+Spotify Preview: https://open.spotify.com/album/75TcMiwrxS0jHbWkbLnNqD
+Album: Second-Hand Smoke
+-----------------------
+Artist: Sublime
+Song: Doin' Time - Uptown Dub
+Spotify Preview: https://open.spotify.com/album/4UEqnonZLE8BNYyk6HnjGA
+Album: Sublime (10th Anniversary Edition / Deluxe Edition)
+-----------------------
+Artist: Sublime
+Song: Doin' Time
+Spotify Preview: https://open.spotify.com/album/1sVlvoWbgJwJLGdEoOAz03
+Album: 20th Century Masters: The Millennium Collection: Best Of Sublime
+-----------------------
+Artist: Sublime
+Song: Doin' Time - Marshall Arts Instrumental Version
+Spotify Preview: https://open.spotify.com/album/4kq4T5cWLlP8NJkMA3S6AN
+Album: Sublime
+-----------------------
+Artist: Sublime
+Song: Doin' Time - Eerie Splendor Remix
+Spotify Preview: https://open.spotify.com/album/4kq4T5cWLlP8NJkMA3S6AN
+Album: Sublime
+-----------------------
+Artist: Ace of Base
+Song: The Sign
+Spotify Preview: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB
+Album: The Sign (US Album) [Remastered]
+-----------------------
+Artist: Ace of Base
+Song: The Sign
+Spotify Preview: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB
+Album: The Sign (US Album) [Remastered]
+-----------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+Album: The Hits--Chapter One
+-----------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ
+Album: Millennium
+-----------------------
+Artist: Mick Jensen
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/1Eav3T7yEFSOvtUOtxMKa0
+Album: I Want It That Way
+-----------------------
+Artist: Anthem Lights
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/6y6y4kyZ81PF951e9N4WBM
+Album: Covers Part IV
+-----------------------
+Artist: Backstreet Boys
+Song: I Want It That Way - Reimagined
+Spotify Preview: https://open.spotify.com/album/74JILVZuxtZLFyRl9AY7TV
+Album: I Want It That Way (Reimagined)
+-----------------------
+Artist: "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Spotify Preview: https://open.spotify.com/album/4VzAwj9nYwEqjY6JLaTwCm
+Album: Poodle Hat
+-----------------------
+Artist: Tyler and Mark
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/2OB116yi2gPBqwgQvqjKIy
+Album: Beautiful Dreams
+-----------------------
+Artist: Jess and Gabriel
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/7agg8FsuWoGF4eVvzEYHbB
+Album: Under the Covers, Vol. 3
+-----------------------
+Artist: Punk Goes
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/5EoRtzlbNHpz4ZHR4rEmwD
+Album: Punk Goes Pop
+-----------------------
+Artist: Various Artists
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/71WupOKqXgSrgg0CivZDHS
+Album: 90 Sweet 90s Hits!
+-----------------------
+Artist: Steel Panther
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/0cKszqNmOM9mjoiKqR9BIS
+Album: I Want It That Way
+-----------------------
+Artist: Glee Cast
+Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Spotify Preview: https://open.spotify.com/album/1sFs6ZD66GxP9g8kcwISh1
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+-----------------------
+Artist: NKOTBSB
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/5Zwuaan4RIS108lyMEYYmw
+Album: NKOTBSB
+-----------------------
+Artist: Boyce Avenue
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz
+Album: Cover Sessions, Vol. 2
+-----------------------
+Artist: Scary Pockets
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/5RUgGybyrfKUKE5hBTKLum
+Album: Nu Funk
+-----------------------
+Artist: Manuel Costa
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/5OTVQJeg9hddMiZOnjMS4S
+Album: I Want It That Way
+-----------------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/1jRyMHSkbnP8GwptMnh66z
+Album: Selfies on Kodachrome
+-----------------------
+Artist: "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Spotify Preview: https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4
+Album: The Essential "Weird Al" Yankovic
+-----------------------
+Artist: Yshop
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/0dkPR4h6LEM3h8xCWiNpQJ
+Album: I Want It That Way
+-----------------------
+Artist: Various Artists
+Song: I Want It That Way
+Spotify Preview: https://open.spotify.com/album/4VyzyexBobu0w5hS3Bcmrg
+Album: NOW That's What I Call 90s Pop
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6XhjNHCyCDyyGJRM5mg40G
+Album: Whenever You Need Somebody
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3vGtqTr5he9uQfusQWJ0oC
+Album: Platinum & Gold Collection
+-----------------------
+Artist: The Black Keys
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v
+Album: Brothers
+-----------------------
+Artist: Ben Rector
+Song: Never Gonna Give You Up - Live
+Spotify Preview: https://open.spotify.com/album/0X3SAHqqkJe9sPyyI4XCbF
+Album: MAGIC: Live From the USA
+-----------------------
+Artist: Cake
+Song: Never, Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/69MkRYEzxiZ84QmgmPJqdY
+Album: b-sides and rarities
+-----------------------
+Artist: Mac Beez
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8
+Album: Never Gonna Give You Up
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up - 7" Mix
+Spotify Preview: https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF
+Album: 80s 100 Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3C20zCOVCXIb9xr0Z6wcCG
+Album: 80 Totally 80s Hits
+-----------------------
+Artist: Kapena
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/646U8uFA13kMJfEOJ7d7aR
+Album: Kapena and More!
+-----------------------
+Artist: Patrice Rushen
+Song: Never Gonna Give You Up - Won't Let You Be
+Spotify Preview: https://open.spotify.com/album/294v9hOiHtrDld4cNeO3vQ
+Album: Remind Me (The Classic Elektra Recordings 1978-1984)
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/09yaGU6AaYLHAONWqhWmMk
+Album: Dead Presidents Vol. 1/Music From The Motion Picture
+-----------------------
+Artist: Lisa Stansfield
+Song: Never, Never Gonna Give You Up - Remastered
+Spotify Preview: https://open.spotify.com/album/7gdyU25hgg7acFjmM3kEuN
+Album: The Boxset Collection
+-----------------------
+Artist: Cake
+Song: Never, Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/25DcxIY8HaWlhTK3j8uQRk
+Album: B-Sides and Rarities
+-----------------------
+Artist: Hazlett
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/0aMQbOHZxOWpqhYR1s1FhP
+Album: Never Gonna Give You Up
+-----------------------
+Artist: The Animal In Me
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/64Ou8jT8Ug0xQWLBdBF7u3
+Album: Never Gonna Give You Up
+-----------------------
+Artist: Lisa Stansfield
+Song: Never, Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/5DwKK9JTj5zZ2vUs2EeAq0
+Album: Lisa Stansfield (Deluxe)
+-----------------------
+Artist: Hannah Trigwell
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3tCHNcehvK6wsvuvFAkpgH
+Album: Cover Sessions, Vol. 2
+-----------------------
+Artist: Spencer Kane
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/5QoPJMs1oC4wYklV7bbM8g
+Album: Acoustic Sessions
+-----------------------
+Artist: Scary Pockets
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/5lxvlzgqn4XtFihhuL3BAp
+Album: Star Funk
+-----------------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6TWv3N5YF6fKHbB4lfcawH
+Album: Swing The Vote!
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6XhjNHCyCDyyGJRM5mg40G
+Album: Whenever You Need Somebody
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3vGtqTr5he9uQfusQWJ0oC
+Album: Platinum & Gold Collection
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up - 7" Mix
+Spotify Preview: https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF
+Album: 80s 100 Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3C20zCOVCXIb9xr0Z6wcCG
+Album: 80 Totally 80s Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/4S4crj7xILxy4YLFA5g8fx
+Album: Football Songs
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/1bNlBFmUkqsRu6Fsa9jzAV
+Album: Feel Good Friday
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/2rZscQgAebvmEMmIefH1tO
+Album: The Greatest Hits
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/0qW47WLD1WTMojO8AJXxH8
+Album: 3 Originals
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up - 7" Mix
+Spotify Preview: https://open.spotify.com/album/0jVGdTKQ0pValbbtxv5h5O
+Album: Happiness Forever
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/77E21mG8AaZptFMyhBMbHc
+Album: Greatest Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/79WstOylBF1QpisjWDNUdG
+Album: Românticas Anos 80
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/5uu2tqVJOUdGBu0JGn9CtW
+Album: 80s Dance
+-----------------------
+Artist: ERock
+Song: Never Gonna Give You Up By Rick Astley Meets Metal
+Spotify Preview: https://open.spotify.com/album/6k1nIss49jGm9MG1i883hS
+Album: Meets Metal Vol. 1 (The Early Year)
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up - Escape to NY Mix
+Spotify Preview: https://open.spotify.com/album/5vqxHO5iBrBIR09EaVG04G
+Album: The Hit Factory Ultimate Collection
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/25eVVORurX2oxmPRDgFEQa
+Album: 80s Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3437FQvlbd5gVFFf79lMXO
+Album: The 80s
+-----------------------
+Artist: Stegosaurus Rex
+Song: Never Gonna Give You Up (Rick Astley)
+Spotify Preview: https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg
+Album: The Dino Soars
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/5vqxHO5iBrBIR09EaVG04G
+Album: The Hit Factory Ultimate Collection
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/59JwEkdSh6yjaeVHmzHkkz
+Album: Where Are You on the Ruby, Pt. 2
+-----------------------
+Artist: Union Of Sound
+Song: Never Gonna Give You Up - (Tribute to Rick Astley)
+Spotify Preview: https://open.spotify.com/album/6oVQMWg1g7p0XeNOaI5eSW
+Album: Music From Queer As Folk Series 2
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6XhjNHCyCDyyGJRM5mg40G
+Album: Whenever You Need Somebody
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3vGtqTr5he9uQfusQWJ0oC
+Album: Platinum & Gold Collection
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up - 7" Mix
+Spotify Preview: https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF
+Album: 80s 100 Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3C20zCOVCXIb9xr0Z6wcCG
+Album: 80 Totally 80s Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/4S4crj7xILxy4YLFA5g8fx
+Album: Football Songs
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/1bNlBFmUkqsRu6Fsa9jzAV
+Album: Feel Good Friday
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/2rZscQgAebvmEMmIefH1tO
+Album: The Greatest Hits
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/0qW47WLD1WTMojO8AJXxH8
+Album: 3 Originals
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up - 7" Mix
+Spotify Preview: https://open.spotify.com/album/0jVGdTKQ0pValbbtxv5h5O
+Album: Happiness Forever
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/77E21mG8AaZptFMyhBMbHc
+Album: Greatest Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/79WstOylBF1QpisjWDNUdG
+Album: Românticas Anos 80
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/5uu2tqVJOUdGBu0JGn9CtW
+Album: 80s Dance
+-----------------------
+Artist: ERock
+Song: Never Gonna Give You Up By Rick Astley Meets Metal
+Spotify Preview: https://open.spotify.com/album/6k1nIss49jGm9MG1i883hS
+Album: Meets Metal Vol. 1 (The Early Year)
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up - Escape to NY Mix
+Spotify Preview: https://open.spotify.com/album/5vqxHO5iBrBIR09EaVG04G
+Album: The Hit Factory Ultimate Collection
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/25eVVORurX2oxmPRDgFEQa
+Album: 80s Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3437FQvlbd5gVFFf79lMXO
+Album: The 80s
+-----------------------
+Artist: Stegosaurus Rex
+Song: Never Gonna Give You Up (Rick Astley)
+Spotify Preview: https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg
+Album: The Dino Soars
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/5vqxHO5iBrBIR09EaVG04G
+Album: The Hit Factory Ultimate Collection
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/59JwEkdSh6yjaeVHmzHkkz
+Album: Where Are You on the Ruby, Pt. 2
+-----------------------
+Artist: Union Of Sound
+Song: Never Gonna Give You Up - (Tribute to Rick Astley)
+Spotify Preview: https://open.spotify.com/album/6oVQMWg1g7p0XeNOaI5eSW
+Album: Music From Queer As Folk Series 2
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6XhjNHCyCDyyGJRM5mg40G
+Album: Whenever You Need Somebody
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3vGtqTr5he9uQfusQWJ0oC
+Album: Platinum & Gold Collection
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up - 7" Mix
+Spotify Preview: https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF
+Album: 80s 100 Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3C20zCOVCXIb9xr0Z6wcCG
+Album: 80 Totally 80s Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/4S4crj7xILxy4YLFA5g8fx
+Album: Football Songs
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/1bNlBFmUkqsRu6Fsa9jzAV
+Album: Feel Good Friday
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/2rZscQgAebvmEMmIefH1tO
+Album: The Greatest Hits
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/0qW47WLD1WTMojO8AJXxH8
+Album: 3 Originals
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up - 7" Mix
+Spotify Preview: https://open.spotify.com/album/0jVGdTKQ0pValbbtxv5h5O
+Album: Happiness Forever
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/77E21mG8AaZptFMyhBMbHc
+Album: Greatest Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/79WstOylBF1QpisjWDNUdG
+Album: Românticas Anos 80
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/5uu2tqVJOUdGBu0JGn9CtW
+Album: 80s Dance
+-----------------------
+Artist: ERock
+Song: Never Gonna Give You Up By Rick Astley Meets Metal
+Spotify Preview: https://open.spotify.com/album/6k1nIss49jGm9MG1i883hS
+Album: Meets Metal Vol. 1 (The Early Year)
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up - Escape to NY Mix
+Spotify Preview: https://open.spotify.com/album/5vqxHO5iBrBIR09EaVG04G
+Album: The Hit Factory Ultimate Collection
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/25eVVORurX2oxmPRDgFEQa
+Album: 80s Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3437FQvlbd5gVFFf79lMXO
+Album: The 80s
+-----------------------
+Artist: Stegosaurus Rex
+Song: Never Gonna Give You Up (Rick Astley)
+Spotify Preview: https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg
+Album: The Dino Soars
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/5vqxHO5iBrBIR09EaVG04G
+Album: The Hit Factory Ultimate Collection
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/59JwEkdSh6yjaeVHmzHkkz
+Album: Where Are You on the Ruby, Pt. 2
+-----------------------
+Artist: Union Of Sound
+Song: Never Gonna Give You Up - (Tribute to Rick Astley)
+Spotify Preview: https://open.spotify.com/album/6oVQMWg1g7p0XeNOaI5eSW
+Album: Music From Queer As Folk Series 2
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6XhjNHCyCDyyGJRM5mg40G
+Album: Whenever You Need Somebody
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3vGtqTr5he9uQfusQWJ0oC
+Album: Platinum & Gold Collection
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up - 7" Mix
+Spotify Preview: https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF
+Album: 80s 100 Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3C20zCOVCXIb9xr0Z6wcCG
+Album: 80 Totally 80s Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/4S4crj7xILxy4YLFA5g8fx
+Album: Football Songs
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/1bNlBFmUkqsRu6Fsa9jzAV
+Album: Feel Good Friday
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/2rZscQgAebvmEMmIefH1tO
+Album: The Greatest Hits
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/0qW47WLD1WTMojO8AJXxH8
+Album: 3 Originals
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up - 7" Mix
+Spotify Preview: https://open.spotify.com/album/0jVGdTKQ0pValbbtxv5h5O
+Album: Happiness Forever
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/77E21mG8AaZptFMyhBMbHc
+Album: Greatest Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/79WstOylBF1QpisjWDNUdG
+Album: Românticas Anos 80
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/5uu2tqVJOUdGBu0JGn9CtW
+Album: 80s Dance
+-----------------------
+Artist: ERock
+Song: Never Gonna Give You Up By Rick Astley Meets Metal
+Spotify Preview: https://open.spotify.com/album/6k1nIss49jGm9MG1i883hS
+Album: Meets Metal Vol. 1 (The Early Year)
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up - Escape to NY Mix
+Spotify Preview: https://open.spotify.com/album/5vqxHO5iBrBIR09EaVG04G
+Album: The Hit Factory Ultimate Collection
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/25eVVORurX2oxmPRDgFEQa
+Album: 80s Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3437FQvlbd5gVFFf79lMXO
+Album: The 80s
+-----------------------
+Artist: Stegosaurus Rex
+Song: Never Gonna Give You Up (Rick Astley)
+Spotify Preview: https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg
+Album: The Dino Soars
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/5vqxHO5iBrBIR09EaVG04G
+Album: The Hit Factory Ultimate Collection
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/59JwEkdSh6yjaeVHmzHkkz
+Album: Where Are You on the Ruby, Pt. 2
+-----------------------
+Artist: Union Of Sound
+Song: Never Gonna Give You Up - (Tribute to Rick Astley)
+Spotify Preview: https://open.spotify.com/album/6oVQMWg1g7p0XeNOaI5eSW
+Album: Music From Queer As Folk Series 2
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6XhjNHCyCDyyGJRM5mg40G
+Album: Whenever You Need Somebody
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3vGtqTr5he9uQfusQWJ0oC
+Album: Platinum & Gold Collection
+-----------------------
+Artist: Rick Astley
+Song: Together Forever - Lover's Leap Remix
+Spotify Preview: https://open.spotify.com/album/6XhjNHCyCDyyGJRM5mg40G
+Album: Whenever You Need Somebody
+-----------------------
+Artist: Rick Astley
+Song: Together Forever
+Spotify Preview: https://open.spotify.com/album/59A4MaViSo86q6cpNpafTq
+Album: Dance Vault Mixes - Together Forever/I'll Never Set You Free
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up - 7" Mix
+Spotify Preview: https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF
+Album: 80s 100 Hits
+-----------------------
+Artist: Rick Astley
+Song: Cry for Help
+Spotify Preview: https://open.spotify.com/album/77E21mG8AaZptFMyhBMbHc
+Album: Greatest Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3C20zCOVCXIb9xr0Z6wcCG
+Album: 80 Totally 80s Hits
+-----------------------
+Artist: Rick Astley
+Song: Whenever You Need Somebody
+Spotify Preview: https://open.spotify.com/album/6XhjNHCyCDyyGJRM5mg40G
+Album: Whenever You Need Somebody
+-----------------------
+Artist: Rick Astley
+Song: Angels On My Side
+Spotify Preview: https://open.spotify.com/album/7IW3NEq3Fxtm7FhOcosnBy
+Album: 50
+-----------------------
+Artist: Rick Astley
+Song: She Wants to Dance with Me
+Spotify Preview: https://open.spotify.com/album/6g6MQ90r65VqHZlLnmumEE
+Album: Hold Me In Your Arms
+-----------------------
+Artist: Rick Astley
+Song: Take Me to Your Heart
+Spotify Preview: https://open.spotify.com/album/6g6MQ90r65VqHZlLnmumEE
+Album: Hold Me In Your Arms
+-----------------------
+Artist: Rick Astley
+Song: Together Forever
+Spotify Preview: https://open.spotify.com/album/0qW47WLD1WTMojO8AJXxH8
+Album: 3 Originals
+-----------------------
+Artist: Rick Astley
+Song: It Would Take a Strong Strong Man
+Spotify Preview: https://open.spotify.com/album/6XhjNHCyCDyyGJRM5mg40G
+Album: Whenever You Need Somebody
+-----------------------
+Artist: Rick Astley
+Song: Hold Me In Your Arms
+Spotify Preview: https://open.spotify.com/album/6g6MQ90r65VqHZlLnmumEE
+Album: Hold Me In Your Arms
+-----------------------
+Artist: Various Artists
+Song: Together Forever
+Spotify Preview: https://open.spotify.com/album/0wELDKiN6EnDFXc9HvvNPy
+Album: Essential - 80's Love
+-----------------------
+Artist: Rick Astley
+Song: Keep Singing
+Spotify Preview: https://open.spotify.com/album/7IW3NEq3Fxtm7FhOcosnBy
+Album: 50
+-----------------------
+Artist: Rick Astley
+Song: Giant
+Spotify Preview: https://open.spotify.com/album/6UhHdHjKjsYoK1IBXRHXO1
+Album: Giant
+-----------------------
+Artist: Rick Astley
+Song: Beautiful Life
+Spotify Preview: https://open.spotify.com/album/3IqiZzsC1gef7qgvCXTqTj
+Album: Beautiful Life
+-----------------------
+Artist: Rick Astley
+Song: Cry For Help
+Spotify Preview: https://open.spotify.com/album/2ktQMVsVx65XWewgOgPE1s
+Album: Free
+-----------------------
+Artist: Rick Astley
+Song: Don't Say Goodbye
+Spotify Preview: https://open.spotify.com/album/6XhjNHCyCDyyGJRM5mg40G
+Album: Whenever You Need Somebody
+--------------------------
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7
+Rotten Tomatoes Rating: undefined
+Country: USA
+Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+--------------------
+Artist: nas
+Venue: Fiserv Forum
+City: Milwaukee
+Date: 07/30/2019
+--------------------
+Artist: nas
+Venue: Hollywood Casino Amphitheatre - St. Louis
+City: Maryland Heights
+Date: 07/31/2019
+--------------------
+Artist: nas
+Venue: The Cynthia Woods Mitchell Pavilion
+City: The Woodlands
+Date: 08/02/2019
+--------------------
+Artist: nas
+Venue: Austin360 Amphitheater
+City: Austin
+Date: 08/03/2019
+--------------------
+Artist: nas
+Venue: Starlight Theatre
+City: Kansas City
+Date: 08/06/2019
+--------------------
+Artist: nas
+Venue: Fiddler's Green Amphitheatre
+City: Englewood
+Date: 08/07/2019
+--------------------
+Artist: nas
+Venue: Ak-Chin Pavilion
+City: Phoenix
+Date: 08/09/2019
+--------------------
+Artist: nas
+Venue: House Of Blues Restaurant & Bar
+City: Las Vegas
+Date: 08/10/2019
+--------------------
+Artist: nas
+Venue: Harrahs Resort SoCal The Events Center
+City: Valley Center
+Date: 08/11/2019
+--------------------
+Artist: nas
+Venue: Shoreline Amphitheatre
+City: Mountain View
+Date: 08/14/2019
+--------------------
+Artist: nas
+Venue: ShoWare Center
+City: Kent
+Date: 08/17/2019
+--------------------
+Artist: nas
+Venue: Revolution Center
+City: Garden City
+Date: 08/18/2019
+--------------------
+Artist: nas
+Venue: Isleta Amphitheater
+City: Albuquerque
+Date: 08/20/2019
+--------------------
+Artist: nas
+Venue: Dos Equis Pavilion
+City: Dallas
+Date: 08/22/2019
+--------------------
+Artist: nas
+Venue: The Joy Theater
+City: New Orleans
+Date: 08/24/2019
+--------------------
+Artist: nas
+Venue: Tuscaloosa Amphitheater
+City: Tuscaloosa
+Date: 08/25/2019
+--------------------
+Artist: nas
+Venue: Cellairis Amphitheatre at Lakewood
+City: Atlanta
+Date: 08/26/2019
+--------------------
+Artist: nas
+Venue: Barclays Center
+City: Brooklyn
+Date: 08/28/2019
+--------------------
+Artist: nas
+Venue: Royal Farms Arena
+City: Baltimore
+Date: 08/29/2019
+--------------------
+Artist: nas
+Venue: Canalside
+City: Buffalo
+Date: 08/30/2019
+--------------------
+Artist: nas
+Venue: St. Joseph’s Health Amphitheater at Lakeview
+City: Syracuse
+Date: 08/31/2019
+--------------------
+Artist: nas
+Venue: The Xfinity Center
+City: Mansfield
+Date: 09/01/2019
+--------------------
+Artist: nas
+Venue: The Liacouras Center
+City: Philadelphia
+Date: 09/07/2019
+--------------------
+Artist: nas
+Venue: Prudential Center
+City: Newark
+Date: 09/08/2019
+--------------------
+Artist: nas
+Venue: Budweiser Stage
+City: Toronto
+Date: 09/10/2019
+--------------------
+Artist: nas
+Venue: Bankers Life Fieldhouse
+City: Indianapolis
+Date: 09/12/2019
+--------------------
+Artist: nas
+Venue: Hollywood Bowl
+City: Los Angeles
+Date: 09/17/2019
+--------------------
+Artist: nas
+Venue: Arlene Schnitzer Concert Hall
+City: Portland
+Date: 03/19/2020
+-----------------------
+Artist: Jonn Hart
+Song: Hammertime
+Spotify Preview: https://open.spotify.com/album/7zzjt0RcsvzcAWed09pW4v
+Album: Hammertime
+-----------------------
+Artist: Various Artists
+Song: Hammertime (Home Depot) [feat. Big Freedia]
+Spotify Preview: https://open.spotify.com/album/0BXCKKFfh5D3hnUMqGBrf2
+Album: Where My Shakers At? Vol. 1 (New Orleans Gutta Bounce)
+-----------------------
+Artist: Rusko
+Song: Hammertime
+Spotify Preview: https://open.spotify.com/album/3XMuWxNEfuy54ekYcDfipK
+Album: Mr Chips
+-----------------------
+Artist: Jimmy Fallon
+Song: Hammertime Medley - Album Version--Stand Up
+Spotify Preview: https://open.spotify.com/album/4T0Ssoz8YYzMiDwcpZTDiZ
+Album: The Bathroom Wall
+-----------------------
+Artist: YHN HammerTime
+Song: Say So
+Spotify Preview: https://open.spotify.com/album/0JxTCRLzYVROSy0mruxU56
+Album: Gang Means Gang
+-----------------------
+Artist: Sandman Polo
+Song: Hammertime
+Spotify Preview: https://open.spotify.com/album/2UNjoESOnVaMRAO4WiMgBN
+Album: Here to Stay
+-----------------------
+Artist: Low Life
+Song: Hammertime
+Spotify Preview: https://open.spotify.com/album/4sWaKqs0XEVwbFI6YFIr9m
+Album: Dogging
+-----------------------
+Artist: Jonn Hart
+Song: Hammertime
+Spotify Preview: https://open.spotify.com/album/7zzjt0RcsvzcAWed09pW4v
+Album: Hammertime
+-----------------------
+Artist: Rev. Benjamin Cone, Jr.
+Song: He Touched Me
+Spotify Preview: https://open.spotify.com/album/0Ft6pAjlTzPIWjH89XFF4N
+Album: It's Hammertime
+-----------------------
+Artist: Popskyy
+Song: Hammertime
+Spotify Preview: https://open.spotify.com/album/4iDauEpjJEWSyMx1LYyZa1
+Album: Showtime II
+-----------------------
+Artist: Michael Giacchino
+Song: Hammertime
+Spotify Preview: https://open.spotify.com/album/7IQ8Ag0SYRJpqsybSCEWwS
+Album: Let Me In (Original Motion Picture Soundtrack)
+-----------------------
+Artist: Rev. Benjamin Cone, Jr.
+Song: It's Hammertime
+Spotify Preview: https://open.spotify.com/album/0Ft6pAjlTzPIWjH89XFF4N
+Album: It's Hammertime
+-----------------------
+Artist: YHN HammerTime
+Song: Now
+Spotify Preview: https://open.spotify.com/album/45H7QFa3tRnYVbN3hDPH0i
+Album: Now
+-----------------------
+Artist: Rev. Benjamin Cone, Jr.
+Song: The Real Big C
+Spotify Preview: https://open.spotify.com/album/0Ft6pAjlTzPIWjH89XFF4N
+Album: It's Hammertime
+-----------------------
+Artist: Rev. Benjamin Cone, Jr.
+Song: He Walked, He Struck Out, He Hit a Home Run
+Spotify Preview: https://open.spotify.com/album/0Ft6pAjlTzPIWjH89XFF4N
+Album: It's Hammertime
+-----------------------
+Artist: Max Minelli
+Song: Hammertime
+Spotify Preview: https://open.spotify.com/album/3mqT7ZhXOsN0ctSFEp46Az
+Album: Dopeboy Chad
+-----------------------
+Artist: Various Artists
+Song: Hammertime
+Spotify Preview: https://open.spotify.com/album/1G9ioHVxT9Gv8XO5zvdiop
+Album: Showcase - Artist Collection Luca Debonaire
+-----------------------
+Artist: Various Artists
+Song: Hammertime
+Spotify Preview: https://open.spotify.com/album/3EbLB12iRyKyGVYChJbYM3
+Album: On Air Bass House Essentials, Vol. 2
+-----------------------
+Artist: Various Artists
+Song: Hammertime
+Spotify Preview: https://open.spotify.com/album/3E9QxfaC0jCLd1bgKi9mmx
+Album: Monotone 3.8 - Tech House Selection
+-----------------------
+Artist: Zirkel
+Song: Hammertime
+Spotify Preview: https://open.spotify.com/album/6WsbJdpLthyiyues57KftH
+Album: Sex Sells
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6XhjNHCyCDyyGJRM5mg40G
+Album: Whenever You Need Somebody
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3vGtqTr5he9uQfusQWJ0oC
+Album: Platinum & Gold Collection
+-----------------------
+Artist: The Black Keys
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v
+Album: Brothers
+-----------------------
+Artist: Barry White
+Song: Never, Never Gonna Give Ya Up - Long Version
+Spotify Preview: https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um
+Album: The Complete 20th Century Records Singles (1973-1979)
+-----------------------
+Artist: Ben Rector
+Song: Never Gonna Give You Up - Live
+Spotify Preview: https://open.spotify.com/album/0X3SAHqqkJe9sPyyI4XCbF
+Album: MAGIC: Live From the USA
+-----------------------
+Artist: Barry White
+Song: Never Never Gonna Give Ya Up
+Spotify Preview: https://open.spotify.com/album/6N6jG28QRHnZ7Cd2ihsmmO
+Album: Barry White's Greatest Hits
+-----------------------
+Artist: Cake
+Song: Never, Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/69MkRYEzxiZ84QmgmPJqdY
+Album: b-sides and rarities
+-----------------------
+Artist: Pennywise
+Song: Won't Give Up The Fight
+Spotify Preview: https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF
+Album: Never Gonna Die
+-----------------------
+Artist: Mac Beez
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8
+Album: Never Gonna Give You Up
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up - 7" Mix
+Spotify Preview: https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF
+Album: 80s 100 Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3C20zCOVCXIb9xr0Z6wcCG
+Album: 80 Totally 80s Hits
+-----------------------
+Artist: Kapena
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/646U8uFA13kMJfEOJ7d7aR
+Album: Kapena and More!
+-----------------------
+Artist: Patrice Rushen
+Song: Never Gonna Give You Up - Won't Let You Be
+Spotify Preview: https://open.spotify.com/album/294v9hOiHtrDld4cNeO3vQ
+Album: Remind Me (The Classic Elektra Recordings 1978-1984)
+-----------------------
+Artist: Barry White
+Song: Never, Never Gonna Give Ya Up
+Spotify Preview: https://open.spotify.com/album/6fPii3RUZhVIX3qINgHPzR
+Album: Stone Gon'
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/09yaGU6AaYLHAONWqhWmMk
+Album: Dead Presidents Vol. 1/Music From The Motion Picture
+-----------------------
+Artist: Lisa Stansfield
+Song: Never, Never Gonna Give You Up - Remastered
+Spotify Preview: https://open.spotify.com/album/7gdyU25hgg7acFjmM3kEuN
+Album: The Boxset Collection
+-----------------------
+Artist: Cake
+Song: Never, Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/25DcxIY8HaWlhTK3j8uQRk
+Album: B-Sides and Rarities
+-----------------------
+Artist: The Animal In Me
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/64Ou8jT8Ug0xQWLBdBF7u3
+Album: Never Gonna Give You Up
+-----------------------
+Artist: Hazlett
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/0aMQbOHZxOWpqhYR1s1FhP
+Album: Never Gonna Give You Up
+-----------------------
+Artist: Lisa Stansfield
+Song: Never, Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/5DwKK9JTj5zZ2vUs2EeAq0
+Album: Lisa Stansfield (Deluxe)
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/4S4crj7xILxy4YLFA5g8fx
+Album: Football Songs
+-----------------------
+Artist: Barry Manilow
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/2BLjT6yzDdKojUyc3Gi6y2
+Album: The Greatest Songs Of The Eighties
+-----------------------
+Artist: Barry White
+Song: Never, Never Gonna Give Ya Up
+Spotify Preview: https://open.spotify.com/album/2YjxVI9GEc7StNjU4PVhOE
+Album: Love Songs
+-----------------------
+Artist: Various Artists
+Song: Never, Never Gonna Give Ya Up - 12" Remix
+Spotify Preview: https://open.spotify.com/album/0uhgBU1hJfoSOS3T02xY2I
+Album: 80s Love Songs
+-----------------------
+Artist: The Pop Posse
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6N5LXH6zCFdVktP7YLhVJu
+Album: Total 80s Love Songs
+-----------------------
+Artist: The Gregory Brothers
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6M0tUj91sgTdkOr3Q6JZSN
+Album: Happy Sad Songs, Vol. 2
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/1OmF2Rih1SFfGr8m9RUfkg
+Album: Dance Songs of the 90's
+-----------------------
+Artist: Manu López
+Song: Never Gonna Give You Up - Saxophone Mix
+Spotify Preview: https://open.spotify.com/album/6wpPDahRH3Xn1bzGemIvwl
+Album: My Favourite Songs, Vol. 2
+-----------------------
+Artist: Sexual Piano Jazz Collection
+Song: Never Gonna Give Up
+Spotify Preview: https://open.spotify.com/album/5uSVwDBMfv29K0RiP5OWoF
+Album: The Best Sexy Songs: Romantic Background Music for Foreplay, Sensual Piano Jazz, Erotic Massage, Sexual Healing, Tantric Sex - Lounge Music
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/1iBb6w8edE7OYl24ITvuCp
+Album: Acoustic Songs Love
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6R6RsBy1RdiEtA4wR5mUHg
+Album: Dance Songs 70 80
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/4fTkVsORr1bbSCLEMmniw9
+Album: Hit Songs from 1988
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/09hYKmgZquQ9UnshYO0YS4
+Album: 70S and 80S Love Songs
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6z32Bq24ganQY5oc8vEZSd
+Album: 80's Love Songs: Romantic Music
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/04VPbQZmke8iKhKed5pI4w
+Album: Romantic Songs from the 80's (Valentine's Day)
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3gEv9JohjOc34sFbC0QI0x
+Album: 100 Top Songs from the 80's - Pt. 2
+-----------------------
+Artist: Mark Conner
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/0rPHfW2osBr5WBKf0qjXNX
+Album: Songs That Are Fun to Play and Sing
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/0mYDrpNKWCLePRqBpgnIO7
+Album: Pure Lounge 80's (Eighties' Pop Songs in Al Lounge Touch)
+-----------------------
+Artist: Sharon Cuneta
+Song: I'm Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6HYbAONx5rxlmjWk3uvLIW
+Album: Songs From Bukas Luluhod Ang Mga Tala
+-----------------------
+Artist: The Karozma Orchestra
+Song: Never Gonna Give You Up - Instrumental
+Spotify Preview: https://open.spotify.com/album/0rGhhYweTTlrlg9urHbqNL
+Album: The Karozma Orchestra Presents: Best Instrumental Songs of Pop and Christmas 2014, Vol. 3
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/4S4crj7xILxy4YLFA5g8fx
+Album: Football Songs
+-----------------------
+Artist: Barry Manilow
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/2BLjT6yzDdKojUyc3Gi6y2
+Album: The Greatest Songs Of The Eighties
+-----------------------
+Artist: The Pop Posse
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6N5LXH6zCFdVktP7YLhVJu
+Album: Total 80s Love Songs
+-----------------------
+Artist: The Gregory Brothers
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6M0tUj91sgTdkOr3Q6JZSN
+Album: Happy Sad Songs, Vol. 2
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/1OmF2Rih1SFfGr8m9RUfkg
+Album: Dance Songs of the 90's
+-----------------------
+Artist: Manu López
+Song: Never Gonna Give You Up - Saxophone Mix
+Spotify Preview: https://open.spotify.com/album/6wpPDahRH3Xn1bzGemIvwl
+Album: My Favourite Songs, Vol. 2
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/1iBb6w8edE7OYl24ITvuCp
+Album: Acoustic Songs Love
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6R6RsBy1RdiEtA4wR5mUHg
+Album: Dance Songs 70 80
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/4fTkVsORr1bbSCLEMmniw9
+Album: Hit Songs from 1988
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/09hYKmgZquQ9UnshYO0YS4
+Album: 70S and 80S Love Songs
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6z32Bq24ganQY5oc8vEZSd
+Album: 80's Love Songs: Romantic Music
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/04VPbQZmke8iKhKed5pI4w
+Album: Romantic Songs from the 80's (Valentine's Day)
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3gEv9JohjOc34sFbC0QI0x
+Album: 100 Top Songs from the 80's - Pt. 2
+-----------------------
+Artist: Mark Conner
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/0rPHfW2osBr5WBKf0qjXNX
+Album: Songs That Are Fun to Play and Sing
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/0mYDrpNKWCLePRqBpgnIO7
+Album: Pure Lounge 80's (Eighties' Pop Songs in Al Lounge Touch)
+-----------------------
+Artist: Sharon Cuneta
+Song: I'm Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6HYbAONx5rxlmjWk3uvLIW
+Album: Songs From Bukas Luluhod Ang Mga Tala
+-----------------------
+Artist: The Karozma Orchestra
+Song: Never Gonna Give You Up - Instrumental
+Spotify Preview: https://open.spotify.com/album/0rGhhYweTTlrlg9urHbqNL
+Album: The Karozma Orchestra Presents: Best Instrumental Songs of Pop and Christmas 2014, Vol. 3
+-----------------------
+Artist: Workout Music Tv
+Song: Never Gonna Give You Up - Workout Remix
+Spotify Preview: https://open.spotify.com/album/4PXMLO6LHDKekdt810m48o
+Album: 40 Best Love Songs Ever Workout Session (124 - 160 Bpm / 32 Count)
+-----------------------
+Artist: The Passionate & Objective Jokerfan
+Song: I'm Never Gonna Give You Up (To the Police)
+Spotify Preview: https://open.spotify.com/album/3uD3p1Eg4RvRtxyJtnPuEI
+Album: People Who Like These Songs Are Correct
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up (From "The Angry Birds Movie")
+Spotify Preview: https://open.spotify.com/album/4XuGmVglJLjJEDP42sHEaO
+Album: 2016 Children Movie Songs
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/4S4crj7xILxy4YLFA5g8fx
+Album: Football Songs
+-----------------------
+Artist: Studio Allstars
+Song: Never Gonna Give You Up - (Tribute to Rick Astley)
+Spotify Preview: https://open.spotify.com/album/3E7FoU1e3gRlaSC7eWULmP
+Album: Songs Everyone Must Hear: Part Five - Protest & Politics Vol 2
+-----------------------
+Artist: Playin' Buzzed
+Song: Never Gonna Give Up On You - Official Bar Karaoke Version in the Style of Rick Astley
+Spotify Preview: https://open.spotify.com/album/0mdCW6mgQEuk4USlv8yC2a
+Album: Official Bar Songs: Pop Party, Vol. 3
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/4S4crj7xILxy4YLFA5g8fx
+Album: Football Songs
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/4S4crj7xILxy4YLFA5g8fx
+Album: Football Songs
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6XhjNHCyCDyyGJRM5mg40G
+Album: Whenever You Need Somebody
+-----------------------
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3vGtqTr5he9uQfusQWJ0oC
+Album: Platinum & Gold Collection
+-----------------------
+Artist: The Black Keys
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v
+Album: Brothers
+-----------------------
+Artist: Ben Rector
+Song: Never Gonna Give You Up - Live
+Spotify Preview: https://open.spotify.com/album/0X3SAHqqkJe9sPyyI4XCbF
+Album: MAGIC: Live From the USA
+-----------------------
+Artist: Cake
+Song: Never, Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/69MkRYEzxiZ84QmgmPJqdY
+Album: b-sides and rarities
+-----------------------
+Artist: Mac Beez
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8
+Album: Never Gonna Give You Up
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up - 7" Mix
+Spotify Preview: https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF
+Album: 80s 100 Hits
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3C20zCOVCXIb9xr0Z6wcCG
+Album: 80 Totally 80s Hits
+-----------------------
+Artist: Kapena
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/646U8uFA13kMJfEOJ7d7aR
+Album: Kapena and More!
+-----------------------
+Artist: Patrice Rushen
+Song: Never Gonna Give You Up - Won't Let You Be
+Spotify Preview: https://open.spotify.com/album/294v9hOiHtrDld4cNeO3vQ
+Album: Remind Me (The Classic Elektra Recordings 1978-1984)
+-----------------------
+Artist: Various Artists
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/09yaGU6AaYLHAONWqhWmMk
+Album: Dead Presidents Vol. 1/Music From The Motion Picture
+-----------------------
+Artist: Lisa Stansfield
+Song: Never, Never Gonna Give You Up - Remastered
+Spotify Preview: https://open.spotify.com/album/7gdyU25hgg7acFjmM3kEuN
+Album: The Boxset Collection
+-----------------------
+Artist: Cake
+Song: Never, Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/25DcxIY8HaWlhTK3j8uQRk
+Album: B-Sides and Rarities
+-----------------------
+Artist: The Animal In Me
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/64Ou8jT8Ug0xQWLBdBF7u3
+Album: Never Gonna Give You Up
+-----------------------
+Artist: Hazlett
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/0aMQbOHZxOWpqhYR1s1FhP
+Album: Never Gonna Give You Up
+-----------------------
+Artist: Lisa Stansfield
+Song: Never, Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/5DwKK9JTj5zZ2vUs2EeAq0
+Album: Lisa Stansfield (Deluxe)
+-----------------------
+Artist: Hannah Trigwell
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/3tCHNcehvK6wsvuvFAkpgH
+Album: Cover Sessions, Vol. 2
+-----------------------
+Artist: Spencer Kane
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/5QoPJMs1oC4wYklV7bbM8g
+Album: Acoustic Sessions
+-----------------------
+Artist: Scary Pockets
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/5lxvlzgqn4XtFihhuL3BAp
+Album: Star Funk
+-----------------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song: Never Gonna Give You Up
+Spotify Preview: https://open.spotify.com/album/6TWv3N5YF6fKHbB4lfcawH
+Album: Swing The Vote!
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+Song: Never Gonna Give You Up
+-----------------------
+Artist: Panic! At The Disco
+Song: C'mon
+Spotify Preview: https://open.spotify.com/album/0A5iPbGFWxVSN9m7EjlKl1
+Album: C'mon
+-----------------------
+Artist: Sheryl Crow
+Song: Soak Up The Sun
+Spotify Preview: https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1
+Album: C'Mon C'Mon
+-----------------------
+Artist: Kesha
+Song: C'Mon
+Spotify Preview: https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu
+Album: Warrior (Expanded Edition)
+-----------------------
+Artist: Keith Anderson
+Song: I Still Miss You
+Spotify Preview: https://open.spotify.com/album/2hWtaLN0o7hWXyVXzpGOum
+Album: C'MON!
+-----------------------
+Artist: One Direction
+Song: C'mon, C'mon
+Spotify Preview: https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF
+Album: Take Me Home: Yearbook Edition
+-----------------------
+Artist: Eddie Cochran
+Song: C’Mon Everybody
+Spotify Preview: https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6
+Album: 12 Of His Biggest Hits
+-----------------------
+Artist: Artifacts
+Song: C'Mon wit da Git Down
+Spotify Preview: https://open.spotify.com/album/0x4ZQDTaX3vyqP8ZCd4BcE
+Album: Between A Rock And A Hard Place
+-----------------------
+Artist: The Von Bondies
+Song: C'mon C'mon
+Spotify Preview: https://open.spotify.com/album/4iqIG2tV2idmgWZGjsIQVb
+Album: Pawn Shoppe Heart
+-----------------------
+Artist: Lindsey Stirling
+Song: Christmas C’mon
+Spotify Preview: https://open.spotify.com/album/7wfjL0ZBEycLvXzJmHF45g
+Album: Warmer In The Winter (Deluxe Edition)
+-----------------------
+Artist: Skylar Grey
+Song: C’mon Let Me Ride
+Spotify Preview: https://open.spotify.com/album/0xpiZPRZ2nzVgINpDHaW4Y
+Album: Don't Look Down
+-----------------------
+Artist: Quad City DJ's
+Song: C'mon N' Ride It (The Train)
+Spotify Preview: https://open.spotify.com/album/1xipzu4eNAdr8oBnqP0eaS
+Album: Get On Up And Dance
+-----------------------
+Artist: Shovels & Rope
+Song: C'mon Utah!
+Spotify Preview: https://open.spotify.com/album/3oiF5Xbhjn2hC6hlp9lB3A
+Album: By Blood
+-----------------------
+Artist: Big Gigantic
+Song: C'mon (feat. GRiZ)
+Spotify Preview: https://open.spotify.com/album/39Emg3duoZHR4LrE7gziK3
+Album: Brighter Future
+-----------------------
+Artist: Red Hot Chili Peppers
+Song: C'mon Girl
+Spotify Preview: https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ
+Album: Stadium Arcadium
+-----------------------
+Artist: Quad City DJ's
+Song: C'mon N' Ride It (The Train) - Radio Mix
+Spotify Preview: https://open.spotify.com/album/16nDsAEdUFbq21g5RcWYiJ
+Album: C'mon N' Ride It (The Train)
+-----------------------
+Artist: Eddie Cochran
+Song: C’Mon Everybody
+Spotify Preview: https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5
+Album: The Best Of Eddie Cochran
+-----------------------
+Artist: Tiësto
+Song: C'mon (Original Mix)
+Spotify Preview: https://open.spotify.com/album/1eJ7TnvOWqbjalmcleZY7r
+Album: Club Life - Volume One Las Vegas (Unmixed)
+-----------------------
+Artist: Tiësto
+Song: C'mon
+Spotify Preview: https://open.spotify.com/album/1Ufqq0yg7gEyRQ70ofgKXe
+Album: Club Life - Volume One Las Vegas (Continuous DJ Mix)
+-----------------------
+Artist: Ol' Dirty Bastard
+Song: Baby C'mon
+Spotify Preview: https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR
+Album: Return To The 36 Chambers: The Dirty Version
+-----------------------
+Artist: Prince Daddy & the Hyena
+Song: C'mon & Smoke Me Up
+Spotify Preview: https://open.spotify.com/album/2LgKtZX7EA5fGxblUNNnEc
+Album: Cosmic Thrill Seekers

@@ -1,0 +1,31 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Node.js app that takes in text commands for a Spotify, Bands in Town, and OMDB APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris284891/liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "Christopher Hedlund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris284891/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/chris284891/liri-node-app#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "env": "0.0.2",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.5.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1",
+    "spotify": "^0.3.0",
+    "youtube-node": "^1.3.3"
+  }
+}
